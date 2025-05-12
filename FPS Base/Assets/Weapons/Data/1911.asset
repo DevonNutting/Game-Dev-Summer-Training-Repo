@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f08dfd6089ed79645a34b74fb4207db4, type: 3}
+  m_Name: 1911
+  m_EditorClassIdentifier: 
+  weaponName: 1911
+  fireRate: 2.5
+  range: 100
+  ammoCapacity: 12
+  reloadSpeed: 0.75
+  projectilePrefab: {fileID: 4515992166698452687, guid: 7f10c91340fb7f24db55b0e2525cd11a, type: 3}
+  weaponPrefab: {fileID: 9117464958452753590, guid: 18840fff8a2257a4bb94e9f4c7b865fe, type: 3}
+  fireSound: {fileID: 0}
