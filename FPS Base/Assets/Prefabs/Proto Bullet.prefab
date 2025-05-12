@@ -123,6 +123,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79ab2af9bc7d41046901cf728e36d716, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _speed: 200
+  _lifeTime: 3
 --- !u!54 &1064869930695862815
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -131,7 +133,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4515992166698452687}
   serializedVersion: 4
-  m_Mass: 0.3
+  m_Mass: 0.2
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -213,8 +215,8 @@ TrailRenderer:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.055040255
-        value: 0.08073425
+        time: 0.021348849
+        value: 0.11677551
         inSlope: 0
         outSlope: 0
         tangentMode: 0
