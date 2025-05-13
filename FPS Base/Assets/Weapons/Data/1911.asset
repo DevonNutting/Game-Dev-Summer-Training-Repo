@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 1911
   m_EditorClassIdentifier: 
   weaponName: 1911
-  fireRate: 2.5
+  fireRate: 3
   range: 100
   ammoCapacity: 12
   reloadSpeed: 0.75
